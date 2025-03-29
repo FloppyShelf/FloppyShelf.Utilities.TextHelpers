@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+	</PropertyGroup>
+
+	<!-- Nuget information-->
+	<PropertyGroup>
+		<!-- The package ID -->
+		<PackageId>FloppyShelf.Utilities.TextHelpers</PackageId>
+		<!-- The package version -->
+		<Version>1.0.0</Version>
+		<!-- Authors of the package -->
+		<Authors>Johannes Musbach</Authors>
+		<!-- Company or organization -->
+		<Company>FloppyShelf</Company>
+		<!-- The description -->
+		<Description>C# utility library designed to provide various text manipulation functions, particularly for sanitizing and processing strings. It includes methods to remove invalid characters from file paths and file names, replace specific occurrences of substrings, and identify characters that don't match a provided pattern. This library is ideal for handling string inputs in scenarios where path or filename restrictions apply, ensuring clean and consistent text handling.</Description>
+		<!-- Tags for the package -->
+		<PackageTags>TextProcessing, StringManipulation, StringSanitizer, PathValidation, FileNameSanitization, StringHelper, Utilities, FilePath, InputSanitization, RegularExpressions, DataCleaning, TextUtilities, FileHandling, Sanitization, StringReplacement, FileValidation, TextFormat, TextHelpers</PackageTags>
+		<!-- URL to the repository -->
+		<RepositoryUrl>https://github.com/FloppyShelf/FloppyShelf.Utilities.TextHelpers</RepositoryUrl>
+	</PropertyGroup>
+</Project>
