@@ -16,9 +16,9 @@
 		<!-- Company or organization -->
 		<Company>FloppyShelf</Company>
 		<!-- The description -->
-		<Description>C# utility library designed to provide various text manipulation functions, particularly for sanitizing and processing strings. It includes methods to remove invalid characters from file paths and file names, replace specific occurrences of substrings, and identify characters that don't match a provided pattern. This library is ideal for handling string inputs in scenarios where path or filename restrictions apply, ensuring clean and consistent text handling.</Description>
+		<Description>A C# utility library providing extension methods for string sanitization and manipulation. Especially useful for scenarios requiring safe file names or paths.</Description>
 		<!-- Tags for the package -->
-		<PackageTags>TextProcessing, StringManipulation, StringSanitizer, PathValidation, FileNameSanitization, StringHelper, Utilities, FilePath, InputSanitization, RegularExpressions, DataCleaning, TextUtilities, FileHandling, Sanitization, StringReplacement, FileValidation, TextFormat, TextHelpers</PackageTags>
+		<PackageTags>TextProcessing;StringManipulation;StringSanitizer;PathValidation;FileNameSanitization;StringHelper;Utilities;FilePath;InputSanitization;RegularExpressions;DataCleaning;TextUtilities;FileHandling;Sanitization;StringReplacement;FileValidation;TextFormat;TextHelpers</PackageTags>
 		<!-- URL to the repository -->
 		<RepositoryUrl>https://github.com/FloppyShelf/FloppyShelf.Utilities.TextHelpers</RepositoryUrl>
 	</PropertyGroup>
